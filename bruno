@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 178d287..f38a540 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -14,6 +14,7 @@[m [mscale=1.0">[m
+       <a href="#apropos">À propos</a> [m
+       <a href="#services">Services</a> [m
+       <a href="#contact">Contact</a> [m
+[32m+[m[32m      <a href="#contact">Contact</a>[m[41m [m
+     </nav> [m
+   </header> [m
+  [m
