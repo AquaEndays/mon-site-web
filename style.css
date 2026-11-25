@@ -53,4 +53,7 @@ div{
 div:hover{
     background: white;
     color: black;
+    transition: 1s;
+    transform: scale(1.05);
+    box-shadow: inset;
 }
