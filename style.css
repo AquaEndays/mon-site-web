@@ -39,3 +39,18 @@ padding: 12px;
 text-align: center; 
 background: #e1eaf4; 
 } 
+
+div{
+    border: 2px 1px beige;
+    background-color: gray;
+    color: white;
+    border-radius: 15px;
+    margin-right: 20px;
+    padding: 10px;
+
+}
+
+div:hover{
+    background: white;
+    color: black;
+}
